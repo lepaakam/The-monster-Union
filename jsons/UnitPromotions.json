@@ -9,11 +9,11 @@
 			"Comment [However, each unit reduces 15 gold, 5 science faith and culture, and 1 happiness when eternal freeze is activated]",
 			"Consumes [10] [Everfrost Crystals] <when number of [[Eternal Freeze] Units] is more than [0]> <hidden from users>",
 			"[+10]% Strength <when defending> <hidden from users>", "[+5]% Strength <when attacking> <hidden from users>", 
-			"[+10]% Strength <when defending> <in [Permafrost] tiles> <hidden from users>", 
-			"[+5]% Strength <when attacking> <in [Permafrost] tiles> <hidden from users>",
+			"[+10]% Strength <when defending> <in [Snow] tiles> <hidden from users>", 
+			"[+5]% Strength <when attacking> <in [Snow] tiles> <hidden from users>",
 			"[This Unit] heals [10] HP <upon turn end> <when number of [[Eternal Freeze] Units] is more than [0]> <hidden from users>",
 			"May travel on Water tiles without embarking <when number of [[Eternal Freeze] Units] is more than [0]> <hidden from users>",
-			"Turn this tile into a [Permafrost] tile <upon entering a [non-[Permafrost]] tile> <when number of [[Eternal Freeze] Units] is more than [0]> <hidden from users>"]
+			"Turn this tile into a [Snow] tile <upon entering a [non-[Snow]] tile> <when number of [[Eternal Freeze] Units] is more than [0]> <hidden from users>"]
 	},
 	{
 		"name": "Eternal Freeze",
