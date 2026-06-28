@@ -15,7 +15,7 @@
                     "[+1 Culture, +1 Production] <for every [16] [[Desert] Tiles]>", "[+1 Science, +1 Happiness] <for every [20] [[Desert] Tiles]>",
 					"Consumes [-5] [Everfrost Crystals] <for every [10] [[Snow] Tiles]>",
 					"Consumes [-1] [Fungus] <for every [15] [[Desert] Tiles]>",
-					"Consumes [-5] [Biomass] <for every [25] [[Desert] Tiles]> ",
+					"Consumes [-1] [Biomass] <for every [25] [[Desert] Tiles]> ",
 			        "Consumes [-5] [Fungus] <upon turn start>",
 		            "Consumes [-10] [Everfrost Crystals] <upon turn start>"
 					],
