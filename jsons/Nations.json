@@ -50,7 +50,7 @@
 			"Free [Herald of Everwinter] appears <upon constructing [Frozen Monolith]>",
 			"Free [Herald of Everwinter] appears <upon constructing [Obelisk of Permafrost]>",
 			"Cannot build [Settler] units <hidden from users>",
-			"[1] Movement <upon entering a new era> <hidden from users>",
+			"[+1] Movement <upon entering a new era>",
 			"May buy [{All} {non-[Great Person]} {non-[Religious Unit]}] units with [Faith] for [3] times their normal Production cost",
 			"May buy [{All} {non-[Wonder]} {non-[Unbuildable]}] buildings with [Faith] for [4] times their normal Production cost"
 					],
