@@ -419,7 +419,12 @@
 					"[+40] Strength <during the [Industrial era]>",				
 					"[+75] Strength <during the [Modern era]>",						
 					"[+85] Strength <during the [Atomic era]>",						
-					"[+100] Strength <starting from the [Information era]>"		
+					"[+100] Strength <starting from the [Information era]>",
+			        "[This Unit] gains [1] movement <starting from the [Medieval era]> <hidden from users>",
+			        "[This Unit] gains [1] movement [Industrial era]> <hidden from users>",		
+					"[This Unit] gains [1] movement [Modern era]> <hidden from users>",	
+					"[This Unit] gains [1] movement [Atomic era]> <hidden from users>",		
+					"[This Unit] gains [1] movement [Information era]> <hidden from users>",
 					]
 	}
 
