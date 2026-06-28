@@ -401,6 +401,11 @@
         "name": "Fungal Infection",
         "uniques": ["Comment [Enemy Undergrove that kill this unit will grant them more Fungus]",
 					"[-10]% Strength <when defending>"]
-    }
+    },
+	{
+        "name": "Monster",
+        "uniques": ["Comment [Monster from the monster Union can evove overtime and becoming stronger]",
+					"[-10]% Strength <when defending>"]
+	}
 
 ]
