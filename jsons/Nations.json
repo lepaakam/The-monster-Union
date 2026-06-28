@@ -19,8 +19,8 @@
 		"hateHello": "You will know true stillness — when your world freezes over.",
 		"tradeRequest": "A shard of ice can reflect many truths. Let us see what benefit lies between us.",
 
-	    	"outerColor": [194, 194, 194],
-		"innerColor": [35, 50, 116],
+	    	"outerColor": [35, 50, 116],
+		"innerColor": [194, 194, 194],
 	    
 		"uniqueName": "Combined Power",
 		"uniques": ["Comment [Special Units can freeze over any tile, allowing all land units to go over water and reducing movement and sight of enemy units.]",
