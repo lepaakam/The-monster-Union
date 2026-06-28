@@ -15,8 +15,8 @@
 			"Costs [1000] [Everfrost Crystals]", "Cannot be purchased", "May travel on Water tiles without embarking",
 			"Ignores terrain cost", "Only available <in cities with a [Frozen Monolith]>", "Only available <in cities with a [Obelisk of Permafrost]>",
 			"May Paradrop to [All] tiles up to [6] tiles away <hidden from users>",
-			"[+10]% Strength [in all cities] <when attacking> <for every [3] [[Snow] Tiles]> <hidden from users>",
-			"[+10]% Strength [in all cities] <when defending> <for every [5] [[Snow] Tiles]> <hidden from users>",
+			"[+10]% Strength <when attacking> <for every [3] [[Snow] Tiles]> <hidden from users>",
+			"[+10]% Strength <when defending> <for every [5] [[Snow] Tiles]> <hidden from users>",
 			"Turn this tile into a [Snow] tile <in tiles without [resource]> <upon entering a [non-[Snow]] tile> <with [30]% chance>",
 			
 			"[This Unit] gains the [Cryostasis] status for [4] turn(s) <for units without [Cryostasis Cooldown]> <when below [21] HP> <upon losing at least [1] HP in a single attack> <hidden from users>",
