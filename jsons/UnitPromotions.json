@@ -409,7 +409,17 @@
 					"[+30] Strength <starting from the [Industrial era]> <hidden from users>",		
 					"[+30] Strength <starting from the [Modern era]> <hidden from users>",	
 					"[+30] Strength <starting from the [Atomic era]> <hidden from users>",		
-					"[+30] Strength <starting from the [Information era]> <hidden from users>"		
+					"[+30] Strength <starting from the [Information era]> <hidden from users>",
+			        "[+1] Range <starting from the [Renaissance era]> <hidden from users>",
+					"[+1] Range <starting from the [Modern era]> <hidden from users>",
+					"[+1] Range <starting from the [Information era]> <hidden from users>",
+			        "[+10] Strength <during the [Classical era]>",					
+					"[+20] Strength <during the [Medieval era]>",				
+					"[+30] Strength <during the [Renaissance era]>",				
+					"[+40] Strength <during the [Industrial era]>",				
+					"[+75] Strength <during the [Modern era]>",						
+					"[+85] Strength <during the [Atomic era]>",						
+					"[+100] Strength <starting from the [Information era]>"		
 					]
 	}
 
