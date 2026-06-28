@@ -3,7 +3,7 @@
 		"name": "Everfrost Crystals",	
 		"resourceType": "Strategic",
 		"uniques": [
-			"Not shown on world screen <for [non-[Frostborne]] Civilizations>", "Doesn't generate naturally",
+			"Not shown on world screen <for [non-[Monster Union]] Civilizations>", "Doesn't generate naturally",
             "Stockpiled", "Cannot be traded", "Excluded from map editor", "Will not be displayed in Civilopedia"
 		]
 	},
@@ -11,7 +11,7 @@
 		"name": "Biomass",	
 		"resourceType": "Strategic",
 		"uniques": [
-			"Not shown on world screen <for [non-[Coleopteran Swarm]] Civilizations>", "Doesn't generate naturally",
+			"Not shown on world screen <for [non-[Monster Union]] Civilizations>", "Doesn't generate naturally",
             "Stockpiled", "Cannot be traded", "Excluded from map editor", "Will not be displayed in Civilopedia"
 		]
 	},
@@ -19,7 +19,7 @@
 		"name": "Fungus",	
 		"resourceType": "Strategic",
 		"uniques": [
-			"Not shown on world screen <for [non-[Undergrove]] Civilizations>", "Doesn't generate naturally",
+			"Not shown on world screen <for [non-[Monster Union]] Civilizations>", "Doesn't generate naturally",
             "Stockpiled", "Cannot be traded", "Excluded from map editor", "Will not be displayed in Civilopedia"
 		]
 	},
