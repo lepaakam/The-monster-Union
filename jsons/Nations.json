@@ -27,13 +27,13 @@
 			"Comment [Special Units are limited to 1 for every city.]",
 			"Comment [Capital city gains more stats per every turn. other cities can slowly gain the same buff overtime.]",
 			"Comment [[Herald of Everwinter can use [Eternal Freeze], buffing all Land units and buffing all Heralds.]]",
-			"Free [Herald of Everwinter] appears <upon constructing [Obelisk of Permafrost]>",
+			"Free [Herald of Everwinter] appears <upon entering a new era>",
 			"Free [Herald of Everwinter] appears <upon constructing [Frozen Monolith]>",
 			"Cannot build [Settler] units <hidden from users>",
 			"May buy [{All} {non-[Great Person]} {non-[Religious Unit]}] units with [Faith] for [3] times their normal Production cost",
 			"May buy [{All} {non-[Wonder]} {non-[Unbuildable]}] buildings with [Faith] for [4] times their normal Production cost"
 					],
-		"cities": ["Hall of Boreas", "Skjolheim", "Icerun", "Frosthall", "Glazeforge", "Boreal Hollow", "Hearthdeep", "Snowreach", "Tundrak Hold",
+		"cities": ["Tayzzyronth", "Skjolheim", "Broodspire", "Frosthall", "Grovy", "Boreal Hollow", "Hearthdeep", "Snowreach", "Tundrak Hold",
 					"Vinterspire", "Frigid Bastion", "Hoarfell", "Stormcradle", "Rimegate", "Glacier's Rest", "Everbite", "Shardmere", 
 					"Winterhold", "Hailmar", "Frozen Anvil", "Thrymspire"],
 		"civilopediaText": [
