@@ -1,18 +1,18 @@
 {
         "name": "Global uniques",
         "uniques": [    //Undergrove
-                        "[+100]% XP required for promotions <for [Undergrove] units>",
-                        "[-100000]% Production when constructing [All] buildings [in your cities] <for [Undergrove] Civilizations>",
+                        "[-20]% XP required for promotions <for [Monster Union] units>",
+                        "[-10]% Production when constructing [All] buildings [in your cities] <for [Monster Union] Civilizations>",
                         //Coleopteran
-                        "[-100000]% Production when constructing [All] buildings [in your cities] <for [Coleopteran Swarm] Civilizations>",
+                        "[-10]% Production when constructing [All] buildings [in your cities] <for [Monster Union] Civilizations>",
         ],
         "unitUniques": [
                         //Frostborne
-                        "[This Unit] gains the [Blessing of Boreas] promotion <upon entering a [All] tile> <for [Land] units> <for [Frostborne] Civilizations>",
+                        "[This Unit] gains the [Blessing of Boreas] promotion <upon entering a [All] tile> <for [Land] units> <for [Monster Union] Civilizations>",
                         //Coleopteran Swarm
-                        "[This Unit] gains the [Volatile Explosive] status for [1] turn(s) <when adjacent to a [Evolved Volatile Explosive] unit> <for [{non-[Coleopteran Swarm]} {non-[Evolved Volatile Explosive]}] units>",
-                        "[This Unit] takes [15] damage <when adjacent to a [Evolved Volatile Explosive] unit> <for [{non-[Coleopteran Swarm]} {non-[Evolved Volatile Explosive]}] units>",
-                        "[This Unit] takes [10] damage <when adjacent to a [Volatile Explosive] unit> <for [{non-[Coleopteran Swarm]} {non-[Evolved Volatile Explosive]}] units>",
+                        "[This Unit] gains the [Volatile Explosive] status for [1] turn(s) <when adjacent to a [Evolved Volatile Explosive] unit> <for [{non-[Monster Union]} {non-[Evolved Volatile Explosive]}] units>",
+                        "[This Unit] takes [15] damage <when adjacent to a [Evolved Volatile Explosive] unit> <for [{non-[Monster Union]} {non-[Evolved Volatile Explosive]}] units>",
+                        "[This Unit] takes [10] damage <when adjacent to a [Volatile Explosive] unit> <for [{non-[Monster Union]} {non-[Evolved Volatile Explosive]}] units>",
 
         ]
 }
