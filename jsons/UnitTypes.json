@@ -18,7 +18,7 @@
         {
                 "name": "Spore Building",
                 "movementType": "Land",
-                "uniques": ["Unable to capture cities", "Uncapturable", "Cannot be purchased", "[-100]% XP gained from combat",
+                "uniques": ["Unable to capture cities", "Uncapturable", "Cannot be purchased", "[20]% XP gained from combat",
                         "[This Unit] heals [15] HP <upon turn end>",]
         }
 ]
