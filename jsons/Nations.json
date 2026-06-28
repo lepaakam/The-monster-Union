@@ -1,9 +1,9 @@
 [
     {
-		"name": "Frostborne",
-		"leaderName": "Boreas",
-		"adjective": ["Frostborn"],
-		"startBias": ["Snow"],
+		"name": "Monster Union",
+		"leaderName": "The three Principles",
+		"adjective": ["Unionic de la monsterus"],
+		"startBias": ["Desert","Snow"],
 		"preferredVictoryType": "Domination",
 		"personality": "Voice of Everwinter",
 		
