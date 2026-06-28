@@ -25,6 +25,8 @@
 		"uniqueName": "Combined Power",
 		"uniques": ["Comment [Special Units can freeze over any tile, allowing all land units to go over water and reducing movement and sight of enemy units.]",
 			"Comment [Gains free Special Units for entering new era.]",
+			"Comment [Gain access to special mushrooms that allow you to create units and do research]",
+			"Comment [Gain access to swarm units that will help you]",
 			"Comment [Capital city gains more stats per every turn. other cities can slowly gain the same buff overtime.]",
 			"Comment [[Herald of Everwinter can use [Eternal Freeze], buffing all Land units and buffing all Heralds.]]",
 			"[-60]% Culture cost of natural border growth [in all cities]  <hidden from users>",
