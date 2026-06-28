@@ -7,7 +7,7 @@
         "replaces": "Palace",
 
 	    "uniques": ["Comment [The Obelisk draws power from the frost, granting +1 of each yield per threshold reached — each yield awakens at a different rate.]",
-                    "[+1 Faith, +1 Food] <for every [3] [[Snow] Tiles]> [in all cities]", "[+1 Gold] <for every [5] [[Snow] Tiles]> [in all cities]", 
+                    "[+1 Faith, +1 Food] <for every [3] [[Snow] Tiles] [in all cities]> [in all cities]", "[+1 Gold] <for every [5] [[Snow] Tiles][in all cities]> [in all cities]", 
                     "[+1 Culture, +1 Production] <for every [8] [[Snow] Tiles] [in all cities]> [in all cities]", "[+1 Science, +1 Happiness] <for every [10] [[Snow] Tiles] [in all cities]> [in all cities]",
 					"[+5 Faith, +3 Culture, +2 Science] <for every [1] [[Frozen Monolith] Buildings]> ",
 					"Never destroyed when the city is captured", "Indicates the capital city", "Unsellable <hidden from users>", "Unbuildable <hidden from users>",
