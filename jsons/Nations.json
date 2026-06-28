@@ -7,8 +7,8 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Tayzzyronth",
 		
-		"startIntroPart1": "Boreas, Harbinger of Frost and ruler of the Frostborne. Your breath stills the wind and your gaze turns rivers to glass. The world awakens to your eternal winter.",
-		"startIntroPart2": "Will your empire spread like rime across the earth? Will your rule freeze time itself? Show them, O Frostborn, that the cold is not death — it is dominion.",
+		"startIntroPart1": "You were chosen, chosen to rule this empire, to keep stability between all the monster race, to defend it from all source of danger and many other things.",
+		"startIntroPart2": "Will your empire spread like rime across the earth? Then show them how capable you are and show how strong the unity is.",
 				
 		"declaringWar": "Your flame will flicker and die beneath the coming frost.",
 		"attacked": "You strike at ice eternal. It does not shatter — it waits.",
@@ -29,7 +29,7 @@
 			"Comment [[Herald of Everwinter can use [Eternal Freeze], buffing all Land units and buffing all Heralds.]]",
 			"Free [Herald of Everwinter] appears <upon constructing [Obelisk of Permafrost]>",
 			"Free [Herald of Everwinter] appears <upon constructing [Frozen Monolith]>",
-			"[-50]% Production when constructing [Settler] units [in your cities]",
+			"Cannot build [Settler] units <hidden from users>",
 			"May buy [{All} {non-[Great Person]} {non-[Religious Unit]}] units with [Faith] for [3] times their normal Production cost",
 			"May buy [{All} {non-[Wonder]} {non-[Unbuildable]}] buildings with [Faith] for [4] times their normal Production cost"
 					],
@@ -37,10 +37,10 @@
 					"Vinterspire", "Frigid Bastion", "Hoarfell", "Stormcradle", "Rimegate", "Glacier's Rest", "Everbite", "Shardmere", 
 					"Winterhold", "Hailmar", "Frozen Anvil", "Thrymspire"],
 		"civilopediaText": [
-			{"text":"The Frostborne are a civilization shaped by endless winter. Led by the enigmatic Boreas, the Frostborne embraces cold not as a curse, but as a source of strength."},
-			{"text":"The Frostborne start slow but get going later on in the game"},
-			{"text":"You want to quickly spread the frozen tiles around the map as each tile will contribute to your cities gaining more stats."},
-			{"test":"Snow type tiles also count toward the stat bonus but they need to be in your borders to count"}
+			{"text":"The Monster Union were union between three monster kingdom."},
+			{"text":"The Frostborne from the tundra, the Coleopteran from the desert, and the fungus from the swamp"},
+			{"text":"After long war, each kingdom aware that there's bigger threat than they are imagine and so to combat that they form a union."},
+			{"test":"The Union were ruled by the tree principles, each principles represent the there monster race. no monster has higher rights than other monsters, in order to maintenance peace and balance between monster"}
         ]
 	},
 	{
