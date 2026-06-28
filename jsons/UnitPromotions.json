@@ -404,8 +404,13 @@
     },
 	{
         "name": "Monster",
-        "uniques": ["Comment [Monster from the monster Union can evove overtime and becoming stronger]",
-					"[-10]% Strength <when defending>"]
+        "uniques": ["Comment [Monster from the monster Union can evolve overtime and becoming stronger]",
+					"[+20] Strength <starting from the [Medieval era]> <hidden from users>",		
+					"[+30] Strength <starting from the [Industrial era]> <hidden from users>",		
+					"[+30] Strength <starting from the [Modern era]> <hidden from users>",	
+					"[+30] Strength <starting from the [Atomic era]> <hidden from users>",		
+					"[+30] Strength <starting from the [Information era]> <hidden from users>"		
+					]
 	}
 
 ]
