@@ -2,9 +2,9 @@
         "name": "Global uniques",
         "uniques": [    //Undergrove
                         "[-20]% XP required for promotions <for [Monster Union] units>",
-                        "[-10]% Production when constructing [All] buildings [in your cities] <for [Monster Union] Civilizations>",
-                        //Coleopteran
-                        "[-10]% Production when constructing [All] buildings [in your cities] <for [Monster Union] Civilizations>",
+                        "[5]% Production when constructing [All] buildings [in your cities] <for [Monster Union] Civilizations>",
+                        
+                
         ],
         "unitUniques": [
                         //Frostborne
