@@ -23,7 +23,7 @@
 			
 			"[This Unit] gains the [Cryostasis] status for [4] turn(s) <for units without [Cryostasis Cooldown]> <when below [21] HP> <upon losing at least [1] HP in a single attack> <hidden from users>",
 			"[This Unit] heals [50] HP <upon gaining the [Cryostasis] status>",
-			"[+15]% Strength <for every [1] [[Herald of Everwinter] Units]>"],
+			"[+15]% Strength <for every [1] [[Herald of Everwinter] Units]>",
 			"[This Unit] gains the [Cryostasis Cooldown] status for [14] turn(s) <upon gaining the [Cryostasis] status> <hidden from users>",
 			
 			"[This Unit] gains the [Eternal Freeze] status for [10] turn(s) <for [0] movement> <costs [2500] [Everfrost Crystals]> <for units without [Eternal Freeze Cooldown]> <when number of [[Eternal Freeze Cooldown] Units] is less than [1]> <hidden from users>",
