@@ -204,7 +204,7 @@
 					"Costs [200] [Fungus]",
 			"[This Unit] gains [1] XP <upon turn end> <hidden from users>",
 					"Cannot attack <for [non-[Planted]] units> <hidden from users>",
-					"[+1]% Strength <for every [10] [Fungus]> <hidden from users>",
+					"[+1]% Strength <for every [100] [Fungus]> <hidden from users>",
 					"[This Unit] gains the [Planted] promotion <for [non-[Planted]] units> <for all movement>",
 					"[This Unit] loses the [Planted] promotion <for [Planted] units> <for all movement> <hidden from users>"
 					],
